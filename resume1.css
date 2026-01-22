@@ -1,0 +1,61 @@
+.title{
+    
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    color: aliceblue
+}
+
+.details{
+    text-align: start;
+}
+
+.skills > h3{
+    text-align: center;
+}
+
+.project > h3{
+text-align: center;
+
+}
+
+.education{
+    text-align: center;
+}
+.mytable {
+    text-align: center;
+  table-layout: auto;   
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.srno {
+  width: 50px;          
+  text-align: center;
+}
+
+
+.schooltable {
+    text-align: center;
+  table-layout: auto;   
+  width: 100%;
+  border-collapse: collapse;
+}
+.school{
+    text-align: center;
+}
+
+.perskills > h3{
+    text-align: center;
+}
+.personalinfo > h3{
+    text-align: center;
+}
+.decl > h3{
+    text-align: center;
+}
+.sig{
+    text-align: right;
+}
+.sig > p{
+    text-align: right;
+}
